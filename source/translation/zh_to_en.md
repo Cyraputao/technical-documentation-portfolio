@@ -16,7 +16,7 @@
 
 ## 3. English Translation
 
-During integrated circuit manufacturing, the Wafer Acceptance Test (WAT) provides information on process and device performance to guide process development and device control in chip manufacturing. As manufacturing processes become increasingly complex, WAT testing is becoming increasingly important.
+During integrated circuit manufacturing, the Wafer Acceptance Test (WAT) provides information on process and device performance to guide process development and production control in chip manufacturing. As manufacturing processes become increasingly complex, WAT testing is becoming increasingly important.
 
 Semitronix's WAT tester is a powerful, high-speed electrical parameter tester that provides customers with accurate and highly automated testing solutions for faster and more effective process monitoring. The tester significantly reduces the time engineers spend taking measurements during semiconductor wafer manufacturing. Its testing efficiency is further enhanced when used in conjunction with Semitronix's addressable test chip solution. Semitronix's WAT tester has been deployed on mass-production lines and in R&D laboratories at several leading wafer fabs.
 
