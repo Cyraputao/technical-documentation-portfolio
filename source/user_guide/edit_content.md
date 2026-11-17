@@ -20,6 +20,12 @@ Markdown 使用井号（#）表示标题。
 ### 三级标题
 ```
 
+渲染效果如图：
+
+![在 VS Code 中编辑 Markdown 标题](../images/edit_content_01.png)
+
+<small>图 1：在编辑器中使用 Markdown 语法创建不同级别的标题。</small>
+
 井号的数量表示标题级别，最多支持六级标题。井号与标题文本之间应保留一个空格。
 
 ### 2.2 输入段落
@@ -33,6 +39,12 @@ Markdown is a lightweight markup language.
 
 It is easy to read and write.
 ```
+
+渲染效果如图：
+
+![在 VS Code 中编辑 Markdown 标题](../images/edit_content_02.png)
+
+<small>图 2：在编辑器中使用 Markdown 语法创建段落。</small>
 
 在 Markdown 中，段落之间通常使用一个空行分隔。
 
@@ -50,6 +62,12 @@ Markdown 支持无序列表和有序列表。
 - Third item
 ```
 
+渲染效果如图：
+
+![在 VS Code 中编辑 Markdown 标题](../images/edit_content_03.png)
+
+<small>图 3：在编辑器中使用 Markdown 语法创建无序列表。</small>
+
 **有序列表：**
 
 使用数字和英文句点创建列表项。
@@ -59,6 +77,12 @@ Markdown 支持无序列表和有序列表。
 2. Second step
 3. Third step
 ```
+
+渲染效果如图：
+
+![在 VS Code 中编辑 Markdown 标题](../images/edit_content_04.png)
+
+<small>图 4：在编辑器中使用 Markdown 语法创建无序列表。</small>
 
 ### 2.4 添加链接
 
@@ -74,14 +98,25 @@ Markdown 支持无序列表和有序列表。
 [Visit the official website](https://code.visualstudio.com/)
 ```
 
+渲染效果如图：
+
+![在 VS Code 中编辑 Markdown 标题](../images/edit_content_05.png)
+
+<small>图 5：在编辑器中使用 Markdown 语法添加超链接。</small>
+
 ## 3. 保存编辑内容
 
 完成编辑后，可以通过以下方式保存文件：
 
-- 使用快捷键 Ctrl + S（Windows/Linux）。
-- 选择菜单 File（文件）> Save（保存）。
+-**File（文件） > Save（保存）**
+
+- 使用快捷键 Ctrl + S（Windows/Linux）
 
 保存后，编辑内容将写入当前 Markdown 文件。
+
+![在 VS Code 中编辑 Markdown 标题](../images/edit_content_06.png)
+
+<small>图 6：通过 VS Code 顶部菜单栏保存文本文件。</small>
 
 ## 4. 注意事项
 

@@ -18,7 +18,11 @@ Visual Studio Code（以下简称 VS Code）支持 Markdown 文件的创建与�
 
 **File（文件） > New Text File（新建文本文件）**
 
-也可以使用快捷键创建新文件。
+也可以使用快捷键 Ctrl + N 创建新文件。
+
+![在 VS Code 中新建文本文件](../images/create_file_01.png)
+
+<small>图 1：通过 VS Code 顶部菜单栏创建新的文本文件。</small>
 
 ### 步骤 3：保存文件
 
@@ -29,15 +33,19 @@ Visual Studio Code（以下简称 VS Code）支持 Markdown 文件的创建与�
 在文件保存对话框中：
 
 1. 选择文件保存位置。
-2. 在文件名输入框中输入你的文件名，例如 （`practice.md`）。
+2. 在文件名输入框中输入你的文件名，例如 `practice.md`。
 3. 确认文件扩展名为 `.md`。
 4. 点击保存。
+
+![保存 Markdown 文件](../images/create_file_02.png)
+
+<small>图 2：在保存对话框中输入文件名，并使用 .md 扩展名保存文件。</small>
 
 ### 步骤 4：确认文件创建成功
 
 保存完成后，文件将显示在 VS Code 编辑器中。
 
-检查文件名是否为 `practice.md`，并确认文件扩展名为 `.md`。
+检查文件名是否为之前的命名，例如`practice.md`，并确认文件扩展名为 `.md`。
 
 ## 3. 注意事项
 
