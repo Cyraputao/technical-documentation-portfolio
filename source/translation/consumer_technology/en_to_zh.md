@@ -7,6 +7,8 @@
 
 翻译内容涵盖产品介绍、核心功能、技术参数以及常见问题，重点关注产品术语准确性、技术信息完整性和中文用户的阅读体验。
 
+---
+
 ## 2. 产品介绍与核心功能 (Product Overview & Key Features) 
 
 ### 2.1 资料来源 (Source Information) 
@@ -54,6 +56,8 @@ Flexible height adjustment and 90° oscillation help direct the breeze.
 #### 4. 翻译策略 (Translation Strategy) 
 
 本次翻译主要采用意译、术语统一和语序调整等方法，在准确传达产品功能的基础上，兼顾中文表达的自然性和用户可读性。
+
+---
 
 ## 3. 产品功能与技术参数 (Product Features & Technical Specifications) 
 
@@ -117,6 +121,8 @@ Flexible height adjustment and 90° oscillation help direct the breeze.
 
 本节主要采用术语对译、单位规范化和信息保留等方法。技术参数翻译应确保数值、单位和规格项目准确对应，避免遗漏或改变原始产品信息。
 
+---
+
 ## 4. 操作与功能说明 (Operation & Function Descriptions) 
 
 ### 4.1 资料来源 (Source Information) 
@@ -178,6 +184,8 @@ Select to set a timer (0-12h).
 #### 4. 翻译策略 (Translation Strategy) 
 
 本节主要采用功能对译、指令简化和术语统一等方法。对于产品操作说明，翻译应优先保证信息准确、操作意图明确，避免过度修饰，使用户能够快速理解设备功能。
+
+---
 
 ## 5. 常见问题与故障排查 (FAQ & Troubleshooting) 
 
@@ -286,6 +294,8 @@ Place the appliance on a flat, level surface. Do not insert any objects into the
 本节的 FAQ 答案采用改写摘要 (Adapted Answer) ，并非对官网原文进行逐字引用。翻译时以官方故障排查信息为依据，在保留关键问题和解决方法的基础上，调整句子结构和表达方式，使内容更符合中文用户的阅读习惯。
 
 翻译过程中采用语义转换、术语统一和指令规范化等方法，不擅自增加原文未提供的操作步骤或解决方案。
+
+---
 
 ## 6. 参考资料 (References) 
 

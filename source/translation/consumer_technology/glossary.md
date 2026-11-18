@@ -7,6 +7,8 @@
 
 术语译法以产品语境、技术准确性和中文用户的阅读习惯为依据。对于同一术语，应尽量在不同文档中保持一致；对于具有多种含义的词语，则根据具体语境选择合适的译法。
 
+---
+
 ## 2. 产品专业术语 (Product Terminology) 
 
 | English Term | Chinese Equivalent | Notes |
@@ -70,6 +72,8 @@
 | User Manual | 用户手册 | 产品完整的使用与操作说明。 |
 | Troubleshooting | 故障排查 | 指识别设备运行问题并提供相应解决方法的过程。 |
 | Servicing | 维修 | 指由专业人员对设备进行检查和维修。 |
+
+---
 
 ## 3. 翻译规范 (Translation Guidelines) 
 
@@ -140,6 +144,8 @@
 - Adjust：调整
 
 翻译时应保留原文中的操作条件和步骤顺序，不得擅自增加或省略重要安全信息。
+
+---
 
 ## 4. 修订说明 (Revision Notes) 
 

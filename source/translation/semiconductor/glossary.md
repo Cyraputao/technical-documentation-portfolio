@@ -7,6 +7,8 @@
 
 术语库旨在统一中英文技术表达，为本项目中的中译英和英译中任务提供参考。
 
+---
+
 ## 2. 专业术语表 (Terminology Table) 
 
 | English Term | Chinese Equivalent | Definition / Context | Notes | Source |
@@ -47,6 +49,8 @@
 | Early Development | 早期开发 | The initial stage in the development life cycle of a process or technology. | 本文指逻辑工艺生命周期的早期阶段 | Semitronix Official Website — Process Development and Yield Improvement |
 | Lead Product Introduction | 先导产品导入 | The introduction of lead products during a development or manufacturing process. | 暂定译法，具体含义需结合官网上下文进一步核实 | Semitronix Official Website — Process Development and Yield Improvement |
 
+---
+
 ## 3. 术语使用规范 (Terminology Notes) 
 
 - 同一英文术语在同一技术语境中应尽量保持中文译法一致。
@@ -55,6 +59,8 @@
 - 对尚未核实的术语，应保留备注，避免直接作为最终标准译法。
 - 对相关但含义不同的术语，应分别收录，避免混用，例如 Mass Production、Mass Production Line 和 Mass Production Phase。
 - 术语表应随着翻译任务的推进持续更新，并记录术语来源及译法依据。
+
+---
 
 ## 4. 参考资料 (References) 
 

@@ -9,6 +9,8 @@
 
 翻译内容涵盖产品介绍、核心功能、技术参数、操作说明以及常见问题，重点练习消费科技产品领域的中英文转换、专业术语运用、技术信息表达和英文技术文档写作。
 
+---
+
 ## 2. 产品介绍与核心功能 (Product Overview & Key Features) 
 
 ### 2.1 参考信息 (Source Information) 
@@ -59,6 +61,7 @@ Users can adjust the fan's operating settings through the control panel or the D
 
 将“持续、舒适的空气流动”译为 "consistent, comfortable airflow"，避免逐字翻译，使英文表达更符合消费科技产品介绍的语言习惯。
 
+
 #### 3. 术语一致性 (Terminology Consistency) 
 
 翻译过程中参考本项目术语表，统一使用以下表达：
@@ -75,6 +78,8 @@ Users can adjust the fan's operating settings through the control panel or the D
 #### 4. 本地化处理 (Localization) 
 
 在不改变原文信息的前提下，对部分中文表达进行适当调整，使译文更加简洁、自然，并符合英语消费科技产品文案的表达习惯。
+
+---
 
 ## 3. 产品功能与技术参数 (Product Features & Technical Specifications) 
 
@@ -152,6 +157,8 @@ Before cleaning the appliance, turn it off and unplug it from the power outlet. 
 #### 4. 准确性与可读性 (Accuracy and Readability) 
 
 安全说明应优先保证信息准确，避免为了追求语言简洁而遗漏关键条件。例如，清洁前关闭设备并拔下电源插头，是两个需要分别表达的操作要求。
+
+---
 
 ## 4. 操作与功能说明 (Operation & Function Descriptions) 
 
@@ -235,6 +242,8 @@ Press the Oscillation button to adjust the airflow direction. To connect the fan
 #### 4. 界面与显示状态描述 (UI and Display Descriptions) 
 
 将“显示屏上的 Wi-Fi 图标闪烁”译为 "the Wi-Fi icon starts flashing on the display"，明确描述界面状态，避免使用过于笼统的表达。
+
+---
 
 ## 5. 常见问题与故障排查 (FAQ & Troubleshooting) 
 
@@ -322,6 +331,8 @@ FAQ 标题采用简洁、自然的疑问句形式，使用户能够快速识别�
 #### 4. 故障排查指引的清晰度 (Clarity of Troubleshooting Instructions) 
 
 在提供操作建议时，明确说明操作条件和具体步骤。例如，使用 "If..." 引出问题条件，再使用祈使句说明用户应采取的操作，使故障排查内容更容易理解和执行。
+
+---
 
 ## 6. 参考资料 (References) 
 
