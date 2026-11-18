@@ -71,7 +71,7 @@
 :maxdepth: 2
 
 product_information
-en_to_zh
 zh_to_en
+en_to_zh
 glossary
 ```
