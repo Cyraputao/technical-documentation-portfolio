@@ -1,13 +1,13 @@
 
-# 半导体专业术语库（Semiconductor Terminology Glossary）
+# 半导体专业术语库 (Semiconductor Terminology Glossary) 
 
-## 1. 术语库概述（Overview）
+## 1. 术语库概述 (Overview) 
 
 本术语库收录半导体成品率提升、晶圆级电性测试、工艺开发及电子设计自动化领域的常见专业术语。
 
 术语库旨在统一中英文技术表达，为本项目中的中译英和英译中任务提供参考。
 
-## 2. 专业术语表（Terminology Table）
+## 2. 专业术语表 (Terminology Table) 
 
 | English Term | Chinese Equivalent | Definition / Context | Notes | Source |
 |---|---|---|---|---|
@@ -36,9 +36,9 @@
 | Electrical Parameter Tester | 电学参数测试机 | A tester designed to measure electrical parameters of semiconductor devices or test structures. | 本项目 WAT 测试设备语境 | Semitronix Official Website — WAT Tester |
 | Addressable Test Chip Solution | 可寻址测试芯片解决方案 | A solution involving addressable test chips for semiconductor testing. | 暂定译法，具体技术含义及官方英文名称待核实 | Semitronix Official Website — WAT Tester |
 | Wafer Fab | 晶圆厂 | A facility where semiconductor wafers are processed and manufactured. | 指半导体晶圆制造企业或工厂，具体译法需结合语境 | Semitronix Official Website — WAT Tester |
-| Mass Production | 量产 | Manufacturing products at commercial production scale. | 与 Mass Production Line（量产产线）和 Mass Production Phase（量产阶段）区分 | |
-| Mass Production Line | 量产产线 | A production line used for manufacturing products at commercial scale. | 区别于 Product Line（产品线） | Semitronix Official Website — WAT Tester |
-| Mass Production Phase | 量产阶段 | The stage in which products are manufactured at commercial scale. | 与 Early Development（早期开发阶段）相对应 | Semitronix Official Website — Process Development and Yield Improvement |
+| Mass Production | 量产 | Manufacturing products at commercial production scale. | 与 Mass Production Line (量产产线) 和 Mass Production Phase (量产阶段) 区分 | |
+| Mass Production Line | 量产产线 | A production line used for manufacturing products at commercial scale. | 区别于 Product Line (产品线)  | Semitronix Official Website — WAT Tester |
+| Mass Production Phase | 量产阶段 | The stage in which products are manufactured at commercial scale. | 与 Early Development (早期开发阶段) 相对应 | Semitronix Official Website — Process Development and Yield Improvement |
 | R&D Laboratory | 研发实验室 | A laboratory dedicated to research and development activities. | R&D 为 Research and Development 的缩写 | Semitronix Official Website — WAT Tester |
 | New Technology Development | 新技术开发 | The development of new technologies for semiconductor manufacturing or related applications. | 半导体技术语境 | Semitronix Official Website — Process Development and Yield Improvement |
 | Industry Leaders | 行业领先企业 | Companies that hold leading positions in a particular industry. | 不宜直译为“工业领导人” | Semitronix Official Website — Process Development and Yield Improvement |
@@ -47,7 +47,7 @@
 | Early Development | 早期开发 | The initial stage in the development life cycle of a process or technology. | 本文指逻辑工艺生命周期的早期阶段 | Semitronix Official Website — Process Development and Yield Improvement |
 | Lead Product Introduction | 先导产品导入 | The introduction of lead products during a development or manufacturing process. | 暂定译法，具体含义需结合官网上下文进一步核实 | Semitronix Official Website — Process Development and Yield Improvement |
 
-## 3. 术语使用规范（Terminology Notes）
+## 3. 术语使用规范 (Terminology Notes) 
 
 - 同一英文术语在同一技术语境中应尽量保持中文译法一致。
 - 缩写首次出现时，应根据文档规范提供英文全称及中文译法。
@@ -56,7 +56,7 @@
 - 对相关但含义不同的术语，应分别收录，避免混用，例如 Mass Production、Mass Production Line 和 Mass Production Phase。
 - 术语表应随着翻译任务的推进持续更新，并记录术语来源及译法依据。
 
-## 4. 参考资料（References）
+## 4. 参考资料 (References) 
 
 1. Semitronix Official Website — About Semitronix  
    [点击查看](https://www.semitronix.com/about/)

@@ -11,7 +11,7 @@ VS Code 内置 Markdown 预览功能，可以将 Markdown 源文件转换为格�
 ### 2.1 使用预览按钮
 
 1. 使用 VS Code 打开需要预览的 Markdown 文件。
-2. 在编辑器右上角找到 Open Preview（打开预览）按钮。位置如下图所示。
+2. 在编辑器右上角找到 Open Preview (打开预览) 按钮。位置如下图所示。
 
 ![图片说明](../images/preview_01.png)
 
@@ -44,7 +44,7 @@ VS Code 支持同时显示 Markdown 源文件和预览窗口，方便用户对�
 操作步骤：
 
 1. 打开需要编辑的 Markdown 文件。
-2. 使用快捷键 `Ctrl + K`，然后按 `V`（Windows/Linux）。
+2. 使用快捷键 `Ctrl + K`，然后按 `V` (Windows/Linux) 。
 3. 预览窗口将在当前编辑器旁边打开。
 4. 调整编辑器和预览窗口的宽度，以便同时查看两侧内容。
 

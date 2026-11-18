@@ -4,7 +4,7 @@
 
 Markdown 是一种轻量级标记语言，用户可以通过简单的标记语法组织文本内容。
 
-Visual Studio Code（以下简称 VS Code）支持 Markdown 文件的创建与编辑。本节将介绍如何在 VS Code 中创建一个 Markdown 文件。
+Visual Studio Code (以下简称 VS Code)支持 Markdown 文件的创建与编辑。本节将介绍如何在 VS Code 中创建一个 Markdown 文件。
 
 ## 2. 操作步骤
 
@@ -16,7 +16,7 @@ Visual Studio Code（以下简称 VS Code）支持 Markdown 文件的创建与�
 
 在顶部菜单栏中选择：
 
-**File（文件） > New Text File（新建文本文件）**
+**File (文件) > New Text File (新建文本文件)**
 
 也可以使用快捷键 Ctrl + N 创建新文件。
 
@@ -28,7 +28,7 @@ Visual Studio Code（以下简称 VS Code）支持 Markdown 文件的创建与�
 
 选择：
 
-**File（文件） > Save（保存）**
+**File (文件) > Save (保存)**
 
 在文件保存对话框中：
 
