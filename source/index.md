@@ -16,7 +16,6 @@ user_guide/index
 ```
 
 ## 二、技术翻译与本地化项目（Translation Projects）
-
 本部分展示不同技术领域的中英文资料翻译、产品信息整理及专业术语管理实践。
 
 ```{toctree}

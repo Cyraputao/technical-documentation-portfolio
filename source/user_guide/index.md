@@ -38,8 +38,8 @@
 
 本手册主要参考以下官方资料：
 
-- Visual Studio Code Documentation: https://code.visualstudio.com/docs
-- Markdown Guide: https://www.markdownguide.org/
+- Visual Studio Code Documentation:[点击查看]https://code.visualstudio.com/docs
+- Markdown Guide:[点击查看]https://www.markdownguide.org/
 
 ## 5. 项目说明（Project Note）
 
