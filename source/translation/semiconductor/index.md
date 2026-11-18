@@ -1,5 +1,5 @@
 
-# Semiconductor Technical Translation & Terminology Project
+# 半导体领域技术翻译实践
 
 ## 1. Project Overview
 
