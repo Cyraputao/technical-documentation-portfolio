@@ -68,7 +68,7 @@
 ```{toctree}
 :maxdepth: 2
 
-zh_to_en
 en_to_zh
+zh_to_en
 glossary
 ```
