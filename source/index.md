@@ -14,7 +14,7 @@
 本部分展示软件操作指南的编写实践，包括操作步骤组织、界面截图标注及常见问题整理。
 
 ```{toctree}
-:maxdepth: 2
+:maxdepth: 3
 :hidden:
 
 user_guide/index
@@ -26,7 +26,7 @@ user_guide/index
 本部分展示不同技术领域的中英文资料翻译、产品信息整理及专业术语管理实践。
 
 ```{toctree}
-:maxdepth: 2
+:maxdepth: 3
 :hidden:
 
 translation/index

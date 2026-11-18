@@ -1,11 +1,12 @@
 
-# VS Code Markdown 用户操作手册 (VS Code Markdown User Guide)
+# VS Code Markdown 用户操作手册  (VS Code Markdown User Guide)
 
 ## 1. 项目概述 (Project Overview)
 
-本手册介绍如何使用 Visual Studio Code 创建、编辑和预览 Markdown 文件，并整理常见操作问题及其解决方法。
-
-手册通过分步骤说明和配套操作截图，展示 Markdown 文档的基本编辑流程，帮助用户熟悉文档编写环境并完成基础操作。
+```{note}
+👋 **欢迎阅读**
+本手册介绍如何使用 Visual Studio Code 创建、编辑和预览 Markdown 文件，并整理常见操作问题及其解决方法。通过分步说明和配套操作截图，帮助你快速熟悉文档编写流程。
+```
 
 ## 2. 项目目标 (Project Objectives)
 
@@ -19,6 +20,11 @@
 ## 3. 手册内容 (Guide Contents)
 
 ### 3.1 创建 Markdown 文件 (Create a Markdown File)
+
+```{tip}
+💡 **阅读建议**
+建议按照以下顺序循序渐进地学习，遇到问题可直接跳转至“常见问题与故障排查”章节。
+```
 
 介绍如何在 VS Code 中创建 Markdown 文件，包括打开项目文件夹、新建文件及保存文件等操作。
 
@@ -49,7 +55,7 @@
 
 ## 6. 文档导航  (Documentation Navigation)
 
-请通过左侧导航栏，或点击下方链接开始阅读
+👈请通过左侧导航栏，或点击下方链接开始阅读
 
 ```{toctree}
 :maxdepth: 2

@@ -15,8 +15,11 @@
 
 ## 3. 项目导航 (Project Navigation
 
+👈请通过左侧导航栏，或点击下方链接开始阅读
+
 ```{toctree}
 :maxdepth: 2
+:titlesonly:
 
 semiconductor/index
 consumer_technology/index
