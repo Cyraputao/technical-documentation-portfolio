@@ -15,7 +15,7 @@
 
 **原文链接（Source URL）：**
 
-https://www.dreo.com/products/tower-fan-554s
+[点击查看](https://www.dreo.com/products/tower-fan-554s)
 
 ### 2.2 原文（Source Text）
 
@@ -63,7 +63,7 @@ Flexible height adjustment and 90° oscillation help direct the breeze.
 
 **原文链接（Source URL）：**
 
-https://www.dreo.com/products/tower-fan-554s
+[点击查看](https://www.dreo.com/products/tower-fan-554s)
 
 ### 3.2 原文（Source Text）
 
@@ -129,7 +129,7 @@ https://www.dreo.com/products/tower-fan-554s
 
 **原文链接（Source URL）：**
 
-https://fccid.io/2BPBC-HTF024/User-Manual/User-manual-8664505
+[点击查看](https://fccid.io/2BPBC-HTF024/User-Manual/User-manual-8664505)
 
 **文档类型（Document Type）：** User Manual
 
@@ -187,7 +187,7 @@ Select to set a timer (0-12h).
 
 **原文链接（Source URL）：**
 
-https://www.dreo.com/products/tower-fan-554s
+[点击查看](https://www.dreo.com/products/tower-fan-554s)
 
 **资料类型（Source Type）：** Official Product FAQ
 
@@ -231,7 +231,7 @@ Place the appliance on a flat, level surface. Do not insert any objects into the
 
 **原文链接（Source URL）：**
 
-https://www.dreo.com/products/tower-fan-554s
+[点击查看](https://www.dreo.com/products/tower-fan-554s)
 
 **说明（Note）：** FAQ 问句摘录自官方产品页面，答案为根据原始故障排查说明整理的改写摘要，并非逐字引用。
 
@@ -290,7 +290,7 @@ https://www.dreo.com/products/tower-fan-554s
 ## 6. 参考资料（References）
 
 1. DREO. *Tower Fan 554S — Official Product Page (US).*  
-   https://www.dreo.com/products/tower-fan-554s
+   [点击查看](https://www.dreo.com/products/tower-fan-554s)
 
 2. DREO. *Official Product Support Center.*  
-   https://support.dreo.com/en/support/product
+   [点击查看](https://support.dreo.com/en/support/product)

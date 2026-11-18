@@ -17,7 +17,7 @@
 
 **Reference URL:**
 
-https://www.dreo.com/products/tower-fan-554s
+[点击查看](https://www.dreo.com/products/tower-fan-554s)
 
 **Text Type:** Product Benefits and User Scenarios
 
@@ -84,7 +84,7 @@ Users can adjust the fan's operating settings through the control panel or the D
 
 **Reference URL:**
 
-https://fccid.io/2BPBC-HTF024/User-Manual/User-manual-8664505
+[点击查看](https://fccid.io/2BPBC-HTF024/User-Manual/User-manual-8664505)
 
 **Text Type:** Pre-installation Preparation and Safety Instructions
 
@@ -161,7 +161,7 @@ Before cleaning the appliance, turn it off and unplug it from the power outlet. 
 
 **Reference URL:**
 
-https://fccid.io/2BPBC-HTF024/User-Manual/User-manual-8664505
+[点击查看](https://fccid.io/2BPBC-HTF024/User-Manual/User-manual-8664505)
 
 **Text Type:** Control Panel Instructions and Function Settings
 
@@ -244,7 +244,7 @@ Press the Oscillation button to adjust the airflow direction. To connect the fan
 
 **Reference URL:**
 
-https://fccid.io/2BPBC-HTF024/User-Manual/User-manual-8664505
+[点击查看](https://fccid.io/2BPBC-HTF024/User-Manual/User-manual-8664505)
 
 **Text Type:** Smart Features FAQ and Troubleshooting
 
@@ -329,13 +329,13 @@ FAQ 标题采用简洁、自然的疑问句形式，使用户能够快速识别�
 
 **DREO Tower Fan 554S — Official Product Page (US)**
 
-https://www.dreo.com/products/tower-fan-554s
+[点击查看](https://www.dreo.com/products/tower-fan-554s)
 
 ### 6.2 产品用户手册（Product User Manual）
 
 **DREO Tower Fan 554S User Manual (Model: HTF024)**
 
-https://fccid.io/2BPBC-HTF024/User-Manual/User-manual-8664505
+[点击查看](https://fccid.io/2BPBC-HTF024/User-Manual/User-manual-8664505)
 
 ### 6.3 参考资料与翻译说明（Reference and Translation Notes）
 
