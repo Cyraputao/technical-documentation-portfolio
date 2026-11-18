@@ -53,7 +53,7 @@
 
 3. **Semitronix Official Website**
 
-    [点击查看]https://www.semitronix.com/
+    [点击查看](https://www.semitronix.com/)
 
 ## 5. 项目说明（Project Note）
 

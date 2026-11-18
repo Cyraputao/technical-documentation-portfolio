@@ -23,17 +23,15 @@
 
 本项目包含以下内容：
 
-### 3.1 产品信息整理（Product Information）
-
-整理 DREO Tower Fan 554S 的产品介绍、核心功能及技术参数，为翻译实践提供产品背景和信息依据。
-
-### 3.2 英译中实践（English-to-Chinese Translation）
+### 3.1 英译中实践（English-to-Chinese Translation）
 
 选取 DREO 官方英文产品资料及用户支持内容，开展英译中实践，涉及产品介绍、功能说明、技术参数、操作说明及常见问题。
 
-### 3.3 中译英实践（Chinese-to-English Translation）
+### 3.2 中译英实践（Chinese-to-English Translation）
 
-以产品使用场景、安装准备、安全注意事项、控制面板操作及智能功能 FAQ 为主题，开展中译英实践。中文底稿为个人改编文本，英文译文为个人翻译练习。
+围绕产品使用场景、安装准备、安全注意事项、控制面板操作及智能功能 FAQ 为主题，开展中译英实践。
+
+中文底稿为个人改编文本，英文译文为个人翻译练习。
 
 ### 3.4 专业术语库（Terminology Glossary）
 
@@ -70,7 +68,6 @@
 ```{toctree}
 :maxdepth: 2
 
-product_information
 zh_to_en
 en_to_zh
 glossary

@@ -59,16 +59,16 @@
 ## 4. 参考资料（References）
 
 1. Semitronix Official Website — About Semitronix  
-   https://www.semitronix.com/about/
+   [点击查看](https://www.semitronix.com/about/)
 
 2. Semitronix Official Website — WAT Tester  
-   https://www.semitronix.com/tester/wat/
+   [点击查看](https://www.semitronix.com/tester/wat/)
 
 3. Semitronix Official Website — Yield Improvement  
-   https://www.semitronix.com/solution_bk/yield-improvement/
+   [点击查看](https://www.semitronix.com/solution_bk/yield-improvement/)
 
 4. Semitronix Official Website — Process Development and Yield Improvement  
-   https://en.semitronix.com/solution/yield-improvement/
+   [点击查看](https://en.semitronix.com/solution/yield-improvement/)
 
 5. SEMI — Compilation of Terms  
-   https://www.semi.org/sites/semi.org/files/2024-07/CompilationTerms0624.pdf
+   [点击查看](https://www.semi.org/sites/semi.org/files/2024-07/CompilationTerms0624.pdf)
