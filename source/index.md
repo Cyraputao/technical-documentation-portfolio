@@ -7,15 +7,17 @@ Technical Documentation Portfolio
 User Guide
 ----------
 
-.. toctree::
-   :maxdepth: 2
+```{toctree}
+:maxdepth: 2
 
-   user_guide/index
+user_guide/index
+```
 
 Translation Projects
 --------------------
 
-.. toctree::
-   :maxdepth: 2
+```{toctree}
+:maxdepth: 2
 
-   translation/index
+translation/index
+```
