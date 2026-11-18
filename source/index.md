@@ -1,11 +1,13 @@
 
-Technical Documentation Portfolio
-=================================
+# 技术文档编写与本地化作品集
 
-本网站展示个人技术文档编写与本地化实践作品，包含产品操作指南、半导体技术翻译及消费科技产品技术资料翻译。
+**Technical Documentation & Localization Portfolio**
 
-User Guide
-----------
+本作品集展示软件操作手册编写、技术资料翻译、专业术语管理及文档规范化实践，涵盖半导体技术与消费科技两个领域。
+
+## 一、软件操作手册（User Guide）
+
+本部分展示软件操作指南的编写实践，包括操作步骤组织、界面截图标注及常见问题整理。
 
 ```{toctree}
 :maxdepth: 2
@@ -13,8 +15,9 @@ User Guide
 user_guide/index
 ```
 
-Translation Projects
---------------------
+## 二、技术翻译与本地化项目（Translation Projects）
+
+本部分展示不同技术领域的中英文资料翻译、产品信息整理及专业术语管理实践。
 
 ```{toctree}
 :maxdepth: 2
