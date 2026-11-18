@@ -65,8 +65,11 @@
 
 ## 6. 文档导航 (Documentation Navigation) 
 
+👈请通过左侧导航栏，或点击下方链接开始阅读
+
 ```{toctree}
 :maxdepth: 2
+:titlesonly:
 
 en_to_zh
 zh_to_en

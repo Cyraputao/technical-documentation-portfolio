@@ -18,7 +18,7 @@
 👈请通过左侧导航栏，或点击下方链接开始阅读
 
 ```{toctree}
-:maxdepth: 2
+:maxdepth: 1
 :titlesonly:
 
 semiconductor/index
