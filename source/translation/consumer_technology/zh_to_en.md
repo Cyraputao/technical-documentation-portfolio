@@ -1,7 +1,7 @@
 
-# Chinese-to-English Translation
+# 消费科技产品技术资料中译英实践（Chinese-to-English Technical Translation）
 
-## 1. Project Overview
+## 1. 项目概述（Project Overview）
 
 本项目以 DREO Tower Fan 554S 美国官网公开产品资料为参考，开展消费科技产品技术资料的中译英实践。
 
@@ -9,9 +9,9 @@
 
 翻译内容涵盖产品介绍、核心功能、技术参数、操作说明以及常见问题，重点练习消费科技产品领域的中英文转换、专业术语运用、技术信息表达和英文技术文档写作。
 
-## 2. Product Overview & Key Features
+## 2. 产品介绍与核心功能（Product Overview & Key Features）
 
-### 2.1 Source Information
+### 2.1 参考信息（Source Information）
 
 **Reference:** DREO Tower Fan 554S — Official Product Page (US)
 
@@ -25,9 +25,7 @@ https://www.dreo.com/products/tower-fan-554s
 
 **Note:** The Chinese source text below is independently adapted for translation practice based on publicly available product information. It is not an official Chinese product description.
 
-### 2.2 Chinese Source Text
-
-### 2.2 Chinese Source Text
+### 2.2 中文底稿（Chinese Source Text）
 
 **中文底稿（改编练习文本）：**
 
@@ -41,29 +39,27 @@ https://www.dreo.com/products/tower-fan-554s
 
 **Source Note:** The Chinese text is adapted for translation practice based on the product's publicly available features. It is not an official Chinese product description.
 
-### 2.3 English Translation
+### 2.3 英文译文（English Translation）
 
-**Excerpt 1: User Experience**
+**Excerpt 1: User Experience(摘录一：产品使用体验)**
 
 Whether relaxing in the living room, working from home, or unwinding at night, the DREO Tower Fan 554S provides consistent, comfortable airflow to meet everyday cooling needs in different settings.
 
-**Excerpt 2: Smart Control Experience**
+**Excerpt 2: Smart Control Experience(摘录二：智能控制体验)**
 
 Users can adjust the fan's operating settings through the control panel or the DREO App. They can select their preferred fan speed and operating mode to enjoy a more convenient user experience.
 
-### 2.4 Translation Notes
+### 2.4 翻译说明（Translation Notes）
 
-### 2.4 Translation Notes
-
-#### 1. Sentence Structure
+#### 1. 句式结构（Sentence Structure）
 
 中文原文采用“无论……还是……”的并列结构。英文译文使用 "Whether..., or..." 句式，使不同使用场景之间的逻辑关系更加清晰。
 
-#### 2. Product-oriented Language
+#### 2. 产品文案表达（Product-oriented Language）
 
 将“持续、舒适的空气流动”译为 "consistent, comfortable airflow"，避免逐字翻译，使英文表达更符合消费科技产品介绍的语言习惯。
 
-#### 3. Terminology Consistency
+#### 3. 术语一致性（Terminology Consistency）
 
 翻译过程中参考本项目术语表，统一使用以下表达：
 
@@ -76,15 +72,13 @@ Users can adjust the fan's operating settings through the control panel or the D
 | 控制面板 | Control Panel |
 | 智能应用程序 | App |
 
-#### 4. Localization
+#### 4. 本地化处理（Localization）
 
 在不改变原文信息的前提下，对部分中文表达进行适当调整，使译文更加简洁、自然，并符合英语消费科技产品文案的表达习惯。
 
-## 3. Product Features & Technical Specifications
+## 3. 产品功能与技术参数（Product Features & Technical Specifications）
 
-### 3.1 Source Information
-
-### 3.1 Source Information
+### 3.1 参考信息（Source Information）
 
 **Reference:** DREO Tower Fan 554S — User Manual (Model: HTF024)
 
@@ -98,9 +92,7 @@ https://fccid.io/2BPBC-HTF024/User-Manual/User-manual-8664505
 
 **Note:** The Chinese text below is independently adapted for translation practice based on the safety instructions and assembly precautions in the product user manual. It is not an official Chinese version of the manual.
 
-### 3.2 Chinese Source Text
-
-### 3.2 Chinese Source Text
+### 3.2 中文底稿（Chinese Source Text）
 
 **中文底稿（改编练习文本）：**
 
@@ -118,9 +110,7 @@ https://fccid.io/2BPBC-HTF024/User-Manual/User-manual-8664505
 
 **Source Note:** This text is adapted for translation practice based on the safety and assembly instructions in the DREO Tower Fan 554S user manual.
 
-### 3.3 English Translation
-
-### 3.3 English Translation
+### 3.3 英文译文（English Translation）
 
 **1. Preparation Before Use**
 
@@ -134,15 +124,13 @@ Place the fan on a flat, dry surface and leave sufficient clearance around the a
 
 Before cleaning the appliance, turn it off and unplug it from the power outlet. Do not immerse the appliance in water or any other liquid. Do not attempt to disassemble or modify its electrical or mechanical components. If the appliance requires servicing, contact qualified service personnel.
 
-### 3.4 Translation Notes
+### 3.4 翻译说明（Translation Notes）
 
-### 3.4 Translation Notes
-
-#### 1. Safety Instruction Language
+#### 1. 安全说明的语言表达（Safety Instruction Language）
 
 安全说明需要清晰、直接地传达禁止事项和操作要求。译文使用 "Do not" 表达禁止性要求，例如 "Do not cover the air inlet or outlet"，避免使用含糊或过于委婉的表达。
 
-#### 2. Technical Terminology
+#### 2. 技术术语（Technical Terminology）
 
 翻译过程中参考本项目术语表及产品手册，统一使用以下表达：
 
@@ -157,17 +145,17 @@ Before cleaning the appliance, turn it off and unplug it from the power outlet. 
 | 电源插头 | Power Plug |
 | 维修 | Servicing |
 
-#### 3. Instructional Sentence Structure
+#### 3. 操作说明的句式结构（Instructional Sentence Structure）
 
 中文操作说明常使用“请先……”“确认……后……”等结构。英文译文根据操作顺序使用 "Before..."、"Make sure..." 和 "During..." 等表达，使步骤之间的先后关系更加明确。
 
-#### 4. Accuracy and Readability
+#### 4. 准确性与可读性（Accuracy and Readability）
 
 安全说明应优先保证信息准确，避免为了追求语言简洁而遗漏关键条件。例如，清洁前关闭设备并拔下电源插头，是两个需要分别表达的操作要求。
 
-## 4. Operation & Function Descriptions
+## 4. 操作与功能说明（Operation & Function Descriptions）
 
-### 4.1 Source Information
+### 4.1 参考信息（Source Information）
 
 **Reference:** DREO Tower Fan 554S — User Manual (Model: HTF024)
 
@@ -181,8 +169,7 @@ https://fccid.io/2BPBC-HTF024/User-Manual/User-manual-8664505
 
 **Note:** The Chinese text below is independently adapted for translation practice based on the control panel instructions in the product user manual. It is not an official Chinese version of the manual.
 
-### 4.2 Chinese Source Text
-
+### 4.2 中文底稿（Chinese Source Text）
 
 **中文底稿（改编练习文本）：**
 
@@ -198,7 +185,7 @@ https://fccid.io/2BPBC-HTF024/User-Manual/User-manual-8664505
 
 按下摇头按钮，可以调整设备的送风方向。如需将设备连接至 DREO App，请在手机上开启蓝牙，并按照应用程序中的提示添加设备。随后，长按摇头按钮约 5 秒，启动设备的网络连接设置。待显示屏上的 Wi-Fi 图标闪烁后，按照 App 中的后续指引完成配网。
 
-### 4.3 English Translation
+### 4.3 英文译文（English Translation）
 
 **1. Adjusting Fan Speed and Operating Modes**
 
@@ -212,9 +199,9 @@ Press the Timer button to set the operating time. Press the button repeatedly to
 
 Press the Oscillation button to adjust the airflow direction. To connect the fan to the DREO App, enable Bluetooth on your mobile device and follow the instructions in the app to add the appliance. Then press and hold the Oscillation button for approximately five seconds to activate the network connection settings. When the Wi-Fi icon starts flashing on the display, follow the remaining instructions in the app to complete the pairing process.
 
-### 4.4 Translation Notes
+### 4.4 翻译说明（Translation Notes）
 
-#### 1. Button Names and UI Terminology
+#### 1. 按钮名称与界面术语（Button Names and UI Terminology）
 
 控制面板按钮名称采用统一的英文表达，并使用首字母大写的形式，以便与产品界面和用户手册中的按钮名称保持一致。
 
@@ -229,7 +216,7 @@ Press the Oscillation button to adjust the airflow direction. To connect the fan
 | 配网 | Network Connection Setup |
 | 配对 | Pairing |
 
-#### 2. Instructional Verbs
+#### 2. 操作动词（Instructional Verbs）
 
 操作说明使用简洁、明确的动词表达用户需要执行的动作，例如：
 
@@ -241,17 +228,17 @@ Press the Oscillation button to adjust the airflow direction. To connect the fan
 - Cancel：取消
 - Complete：完成
 
-#### 3. Sequential Instructions
+#### 3. 操作顺序表达（Sequential Instructions）
 
 对于需要按照顺序完成的操作，使用 "After..."、"Then..." 和 "When..." 等连接表达，使用户能够清楚理解每一步的操作条件和先后顺序。
 
-#### 4. UI and Display Descriptions
+#### 4. 界面与显示状态描述（UI and Display Descriptions）
 
 将“显示屏上的 Wi-Fi 图标闪烁”译为 "the Wi-Fi icon starts flashing on the display"，明确描述界面状态，避免使用过于笼统的表达。
 
-## 5. FAQ & Troubleshooting
+## 5. 常见问题与故障排查（FAQ & Troubleshooting）
 
-### 5.1 Source Information
+### 5.1 参考信息（Source Information）
 
 **Reference:** DREO Tower Fan 554S — User Manual (Model: HTF024)
 
@@ -265,7 +252,7 @@ https://fccid.io/2BPBC-HTF024/User-Manual/User-manual-8664505
 
 **Note:** The Chinese text below is independently adapted for translation practice based on the smart features and operating instructions in the product user manual. It is not an official Chinese FAQ.
 
-### 5.2 Chinese Source Text
+### 5.2 中文底稿（Chinese Source Text）
 
 **中文底稿（改编练习文本）：**
 
@@ -285,11 +272,11 @@ https://fccid.io/2BPBC-HTF024/User-Manual/User-manual-8664505
 
 当设备正在进行固件更新时，显示屏可能显示“UP”。这表示设备处于更新过程中。更新期间，请保持设备正常通电，并按照 DREO App 中的提示完成相关操作。
 
-### 5.3 English Translation
+### 5.3 英文译文（English Translation）
 
 **Question 1: How do I connect the fan to a new mobile device?**
 
-To control the fan with a different mobile device, install the DREO app on the new device and sign in to your account. Make sure Bluetooth is enabled, then follow the device setup instructions in the app to reconnect the Tower Fan 554S. If the fan does not enter pairing mode, press and hold the Oscillation button for approximately five seconds to restart the Wi-Fi connection setup.
+To control the fan with a different mobile device, install the DREO app on the new device and sign in to your account. Make sure Bluetooth is enabled, then follow the device setup instructions in the app to reconnect the Tower Fan 554S. If the fan does not enter network setup mode, press and hold the Oscillation button for approximately five seconds to restart the Wi-Fi connection setup.
 
 **Question 2: Why does the display turn off automatically?**
 
@@ -303,9 +290,9 @@ The fan has a memory function that restores some of the settings from its previo
 
 The "UP" indicator may appear on the display while the fan is undergoing a firmware update. It indicates that the update is in progress. Keep the appliance connected to power during the update and follow any relevant instructions in the DREO app.
 
-### 5.4 Translation Notes
+### 5.4 翻译说明（Translation Notes）
 
-#### 1. FAQ Question Patterns
+#### 1. 常见问题的提问方式（FAQ Question Patterns）
 
 FAQ 标题采用简洁、自然的疑问句形式，使用户能够快速识别问题。例如：
 
@@ -313,7 +300,7 @@ FAQ 标题采用简洁、自然的疑问句形式，使用户能够快速识别�
 - 为什么……？ → Why does...?
 - ……是什么意思？ → What does... mean?
 
-#### 2. Troubleshooting Expressions
+#### 2. 故障排查表达（Troubleshooting Expressions）
 
 故障排查内容需要说明问题原因、设备状态或解决方法。翻译时采用清晰、直接的表达：
 
@@ -328,29 +315,29 @@ FAQ 标题采用简洁、自然的疑问句形式，使用户能够快速识别�
 | 更新过程中 | During the Update |
 | 唤醒显示屏 | Wake the Display |
 
-#### 3. Explanation of Device Behavior
+#### 3. 设备运行状态说明（Explanation of Device Behavior）
 
 对于设备的正常运行状态，使用客观说明，避免让用户误以为设备出现故障。例如，将“这是设备的正常显示设置”译为 "This is part of the fan's normal display settings"。
 
-#### 4. Clarity of Troubleshooting Instructions
+#### 4. 故障排查指引的清晰度（Clarity of Troubleshooting Instructions）
 
 在提供操作建议时，明确说明操作条件和具体步骤。例如，使用 "If..." 引出问题条件，再使用祈使句说明用户应采取的操作，使故障排查内容更容易理解和执行。
 
-## 6. References
+## 6. 参考资料（References）
 
-### 6.1 Official Product Information
+### 6.1 官方产品资料（Official Product Information）
 
 **DREO Tower Fan 554S — Official Product Page (US)**
 
 https://www.dreo.com/products/tower-fan-554s
 
-### 6.2 User Manual
+### 6.2 产品用户手册（Product User Manual）
 
 **DREO Tower Fan 554S User Manual (Model: HTF024)**
 
 https://fccid.io/2BPBC-HTF024/User-Manual/User-manual-8664505
 
-### 6.3 Reference and Translation Notes
+### 6.3 参考资料与翻译说明（Reference and Translation Notes）
 
 本项目以 DREO 官方公开产品资料及用户手册为参考，中文底稿为个人根据公开资料改编的翻译练习文本，并非官方中文版。
 

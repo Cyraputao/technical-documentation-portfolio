@@ -1,12 +1,13 @@
-# Semiconductor Terminology Glossary
 
-## 1. Overview
+# 半导体专业术语库（Semiconductor Terminology Glossary）
 
-本术语库收录半导体良率提升、晶圆级电性测试、工艺开发及电子设计自动化领域的常见专业术语。
+## 1. 术语库概述（Overview）
+
+本术语库收录半导体成品率提升、晶圆级电性测试、工艺开发及电子设计自动化领域的常见专业术语。
 
 术语库旨在统一中英文技术表达，为本项目中的中译英和英译中任务提供参考。
 
-## 2. Terminology Table
+## 2. 专业术语表（Terminology Table）
 
 | English Term | Chinese Equivalent | Definition / Context | Notes | Source |
 |---|---|---|---|---|
@@ -46,7 +47,7 @@
 | Early Development | 早期开发 | The initial stage in the development life cycle of a process or technology. | 本文指逻辑工艺生命周期的早期阶段 | Semitronix Official Website — Process Development and Yield Improvement |
 | Lead Product Introduction | 先导产品导入 | The introduction of lead products during a development or manufacturing process. | 暂定译法，具体含义需结合官网上下文进一步核实 | Semitronix Official Website — Process Development and Yield Improvement |
 
-## 3. Terminology Notes
+## 3. 术语使用规范（Terminology Notes）
 
 - 同一英文术语在同一技术语境中应尽量保持中文译法一致。
 - 缩写首次出现时，应根据文档规范提供英文全称及中文译法。
@@ -55,19 +56,19 @@
 - 对相关但含义不同的术语，应分别收录，避免混用，例如 Mass Production、Mass Production Line 和 Mass Production Phase。
 - 术语表应随着翻译任务的推进持续更新，并记录术语来源及译法依据。
 
-## 4. References
+## 4. 参考资料（References）
 
-1. Semitronix Official Website — About Semitronix
+1. Semitronix Official Website — About Semitronix  
    https://www.semitronix.com/about/
 
-2. Semitronix Official Website — WAT Tester
+2. Semitronix Official Website — WAT Tester  
    https://www.semitronix.com/tester/wat/
 
-3. Semitronix Official Website — Yield Improvement
+3. Semitronix Official Website — Yield Improvement  
    https://www.semitronix.com/solution_bk/yield-improvement/
 
-4. Semitronix Official Website — Process Development and Yield Improvement
+4. Semitronix Official Website — Process Development and Yield Improvement  
    https://en.semitronix.com/solution/yield-improvement/
 
-5. SEMI — Compilation of Terms
+5. SEMI — Compilation of Terms  
    https://www.semi.org/sites/semi.org/files/2024-07/CompilationTerms0624.pdf

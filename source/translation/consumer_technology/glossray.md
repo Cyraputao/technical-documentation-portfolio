@@ -1,13 +1,13 @@
 
-# DREO Tower Fan 554S — Terminology Glossary
+# DREO Tower Fan 554S — 专业术语库（Terminology Glossary）
 
-## 1. Overview
+## 1. 术语表概述（Overview）
 
 本术语表用于统一 DREO Tower Fan 554S 产品文档中的中英文专业表达，为产品资料翻译、用户操作指南、常见问题解答及界面微文案提供术语参考。
 
 术语译法以产品语境、技术准确性和中文用户的阅读习惯为依据。对于同一术语，应尽量在不同文档中保持一致；对于具有多种含义的词语，则根据具体语境选择合适的译法。
 
-## 2. Product Terminology
+## 2. 产品专业术语（Product Terminology）
 
 | English Term | Chinese Equivalent | Notes |
 |---|---|---|
@@ -71,9 +71,9 @@
 | Troubleshooting | 故障排查 | 指识别设备运行问题并提供相应解决方法的过程。 |
 | Servicing | 维修 | 指由专业人员对设备进行检查和维修。 |
 
-## 3. Translation Guidelines
+## 3. 翻译规范（Translation Guidelines）
 
-### 3.1 Consistency
+### 3.1 术语一致性（Consistency）
 
 同一产品功能在不同文档中应使用统一译法。例如：
 
@@ -84,7 +84,7 @@
 - Control Panel：控制面板
 - Cord Keeper：线缆固定卡扣
 
-### 3.2 Context-Based Translation
+### 3.2 基于语境的翻译（Context-Based Translation）
 
 同一英文术语在不同语境下可能需要采用不同译法。例如：
 
@@ -94,11 +94,11 @@
 - Voltage 和 Mains Voltage 分别表示一般电压参数和市电电压，不应随意混用。
 - Network Connection Setup 可译为“网络连接设置”或“配网”，应结合操作场景选择。
 
-### 3.3 User-Friendly Language
+### 3.3 用户友好型表达（User-Friendly Language）
 
 面向普通消费者的产品文档应优先采用清晰、自然、易于理解的表达，避免不必要的专业术语堆积。
 
-### 3.4 Specification and Unit Formatting
+### 3.4 产品参数与单位格式（Specification and Unit Formatting）
 
 产品规格参数中的数值和单位应准确保留，并统一格式。例如：
 
@@ -111,7 +111,7 @@
 
 翻译时不得擅自修改官方参数或混用不同地区版本的产品规格。
 
-### 3.5 UI and Operation Terminology
+### 3.5 界面与操作术语（UI and Operation Terminology）
 
 控制面板、设备显示界面及操作说明中的术语应保持一致。
 
@@ -124,7 +124,7 @@
 - Oscillation Button：摇头按钮
 - Display：显示屏
 
-### 3.6 Safety and Instructional Language
+### 3.6 安全说明与操作用语（Safety and Instructional Language）
 
 安全说明和操作指南应采用清晰、直接的表达，准确传达操作步骤、禁止事项及注意要求。
 
@@ -141,7 +141,7 @@
 
 翻译时应保留原文中的操作条件和步骤顺序，不得擅自增加或省略重要安全信息。
 
-## 4. Revision Notes
+## 4. 修订说明（Revision Notes）
 
 本术语表将随着产品资料翻译和技术文档编写持续更新。
 

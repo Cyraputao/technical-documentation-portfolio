@@ -45,19 +45,19 @@
 
 1. **DREO Tower Fan 554S — Official Product Page**
 
-   https://www.dreo.com/products/tower-fan-554s
+   [点击查看](https://www.dreo.com/products/tower-fan-554s)
 
 2. **DREO Official Website**
 
-   https://www.dreo.com/
+   [点击查看](https://www.dreo.com/)
 
 3. **DREO Official Support Center**
 
-   https://support.dreo.com/en/support/product
+   [点击查看](https://support.dreo.com/en/support/product)
 
 4. **DREO Tower Fan 554S User Manual (Model HTF024)**
 
-   https://fccid.io/2BPBC-HTF024/User-Manual/User-manual-8664505
+   [点击查看](https://fccid.io/2BPBC-HTF024/User-Manual/User-manual-8664505)
 
 ## 5. 项目说明（Project Note）
 

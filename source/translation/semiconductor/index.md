@@ -45,15 +45,15 @@
 
 1. **Semitronix — Process Development and Yield Improvement**
 
-   https://en.semitronix.com/solution/yield-improvement/
+   [点击查看]（https://en.semitronix.com/solution/yield-improvement/）
 
 2. **Semitronix — WAT Tester**
 
-   https://www.semitronix.com/tester/wat/
+    [点击查看]（https://www.semitronix.com/tester/wat/）
 
 3. **Semitronix Official Website**
 
-   https://www.semitronix.com/
+    [点击查看]https://www.semitronix.com/
 
 ## 5. 项目说明（Project Note）
 
