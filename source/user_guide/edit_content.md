@@ -112,7 +112,7 @@ Markdown 支持无序列表和有序列表。
 
 完成编辑后，可以通过以下方式保存文件：
 
--**File (文件)  > Save (保存) **
+-**File (文件)  > Save (保存)**
 
 - 使用快捷键 Ctrl + S (Windows/Linux) 
 

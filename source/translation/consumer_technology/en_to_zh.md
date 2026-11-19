@@ -205,7 +205,7 @@ Select to set a timer (0-12h).
 
 **改编后的参考文本 (Adapted Source Text) ：**
 
-**节选 1：风扇启动 (Fan Startup) **
+**节选 1：风扇启动 (Fan Startup)**
 
 **官网原始问题 (Original FAQ Question) ：**
 
