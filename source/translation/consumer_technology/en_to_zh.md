@@ -141,29 +141,29 @@ Flexible height adjustment and 90° oscillation help direct the breeze.
 
 ### 4.2 原文 (Source Text) 
 
-**节选 1：电源按钮 (Power Button) **
+**节选 1：电源按钮 (Power Button)**
 
 Turn power on/off.
 
-**节选 2：模式按钮 (Mode Button) **
+**节选 2：模式按钮 (Mode Button)**
 
 Switch between Normal/Natural/Sleep/Auto Mode.
 
-**节选 3：定时按钮 (Timer Button) **
+**节选 3：定时按钮 (Timer Button)**
 
 Select to set a timer (0-12h).
 
 ### 4.3 中文译文 (Chinese Translation) 
 
-**节选 1：电源按钮 (Power Button) **
+**节选 1：电源按钮 (Power Button)**
 
 开启/关闭设备电源。
 
-**节选 2：模式按钮 (Mode Button) **
+**节选 2：模式按钮 (Mode Button)**
 
 切换运行模式：普通模式、自然风模式、睡眠模式和自动模式。
 
-**节选 3：定时按钮 (Timer Button) **
+**节选 3：定时按钮 (Timer Button)**
 
 设置定时功能 (0–12 小时) 。
 
@@ -215,7 +215,7 @@ Why won’t my Tower Fan turn on?
 
 Check whether the power cord is connected to a powered outlet and whether the mains voltage matches the voltage specified on the appliance.
 
-**节选 2：风扇稳定性 (Fan Stability) **
+**节选 2：风扇稳定性 (Fan Stability)**
 
 **官网原始问题 (Original FAQ Question) ：**
 
@@ -225,7 +225,7 @@ Why is my Tower Fan shaky and wobbling?
 
 Place the fan on a flat, level surface. Check whether the fan has been installed correctly according to the assembly instructions. Make sure the power cord passes through all the rear cord keepers.
 
-**节选 3：振动与噪声 (Vibration and Noise) **
+**节选 3：振动与噪声 (Vibration and Noise)**
 
 **官网原始问题 (Original FAQ Question) ：**
 
@@ -245,19 +245,19 @@ Place the appliance on a flat, level surface. Do not insert any objects into the
 
 ### 5.3 中文译文 (Chinese Translation) 
 
-**节选 1：风扇启动 (Fan Startup) **
+**节选 1：风扇启动 (Fan Startup)**
 
 **故障问题：风扇无法启动**
 
 检查电源线是否已连接至正常供电的插座，并确认市电电压是否与设备标示的电压一致。
 
-**节选 2：风扇稳定性 (Fan Stability) **
+**节选 2：风扇稳定性 (Fan Stability)**
 
 **故障问题：风扇放置不稳或出现摇晃**
 
 将风扇放置在平坦、水平的表面上。检查风扇是否按照安装说明正确组装，并确保电源线穿过所有后部线缆固定卡扣。
 
-**节选 3：振动与噪声 (Vibration and Noise) **
+**节选 3：振动与噪声 (Vibration and Noise)**
 
 **故障问题：风扇运行时出现振动和噪声**
 
