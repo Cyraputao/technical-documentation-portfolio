@@ -167,7 +167,7 @@ Select to set a timer (0-12h).
 
 设置定时功能 (0–12 小时) 。
 
-### 4.4 翻译说明 (Translation Notes) 
+### 4.4 翻译说明 (Translation Notes)  
 
 #### 1. 操作指令 (Operational Instructions) 
 
